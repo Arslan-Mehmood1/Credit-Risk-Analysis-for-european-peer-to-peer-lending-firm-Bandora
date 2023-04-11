@@ -1,4 +1,7 @@
 # Credit Risk Analysis for peer to peer lending firm Bandora
+
+The machine learning pipelines are deployed here: ([**Credit-Risk-Analysis App**](https://arslan1k-ml-deployment-streamlit-app-hy7s2q.streamlit.app/))
+
 The credit risk is analyzed to measure the possibility of loss as result of borrower failing to repay a loan or meeting the loan obligations. The more the credit risk the more it has a negative impact on performance of bank. The credit risk analysis is important because it allows the bank to plan strategies to avoid a negative outcome ahead in future.
 - In this project we analyzed the credit risk on individual loans, maximizing the Return on Investment (ROI) by predicting an Eligible Loan Amount and minimizing the financial risk between the lending firm Bandora and the borrowers.
 - Machine Learning regression and classification pipelines are deployed to accomplish the objective of credit risk analysis.
